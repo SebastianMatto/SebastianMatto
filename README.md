@@ -2,17 +2,18 @@
     <h1 aling="center"> Hi, I´m Sebastián Matto <img src="https://media.giphy.com/media/A86EGETgaV9CrTOCjz/giphy.gif" width="50"></h1>
     <h3 aling="center">From <img src="https://media.giphy.com/media/Vvl3AvpE2i9FOSct61/giphy.gif" width="50"> </h3>
 </div>
-<!--
-**SebastianMatto/SebastianMatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Sebastian = {
+  pronouns: "He" | "him",
+  code: [Html, Css, Javascript],
+  tools: [Git, Github],
+  architecture: ["microservices", "front-end development"],
+  techCommunities: {
+    Student in group 5 of the ONE program with a Front-End approach,
+    And at the same time a university student
+                      },
+}
+```
