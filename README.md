@@ -13,7 +13,7 @@ const Sebastian = {
   architecture: ["microservices", "front-end development"],
   techCommunities: {
     Student in group 5 of the ONE program with a Front-End approach,
-    And at the same time a university student
+    And at the same time a university student of the career "Programming Technician".
                       },
 }
 ```
